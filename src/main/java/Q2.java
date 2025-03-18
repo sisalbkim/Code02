@@ -21,6 +21,8 @@ public class Q2 {
 
         s.close();
 
+//확인용
+
 
     }
 }
