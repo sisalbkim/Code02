@@ -33,5 +33,7 @@ public class Back02884 {
             System.out.println(h + "시 입니다.");
         }
 
+        s.close();
+
     }
 }
