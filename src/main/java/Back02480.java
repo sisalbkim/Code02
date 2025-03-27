@@ -34,7 +34,6 @@ public class Back02480 {
             }
             System.out.print((1000 + (result * 100)) + "원");
         }
-
         if (a != b && a != c && b != c){
             int result = 0;
             if (a > b){
