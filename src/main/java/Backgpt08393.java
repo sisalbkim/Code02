@@ -1,6 +1,6 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 // while문 사용
-public class Backgpt08393_While {
+public class Backgpt08393 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("정수를 입력하세요 (While 버전): ");
@@ -54,4 +54,5 @@ public class Backgpt08393_Formula {
         s.close();
     }
 }
+ */
 
