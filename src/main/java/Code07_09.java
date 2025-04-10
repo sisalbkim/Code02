@@ -25,3 +25,4 @@ public class Code07_09 {
         rabbit3.setPosition(0, -100);
     }
 }
+

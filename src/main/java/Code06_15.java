@@ -11,3 +11,4 @@ public class Code06_15 {
         }System.out.println("1~100의 합계 (4의 배수 제외): " + hap);
     }
 }
+
