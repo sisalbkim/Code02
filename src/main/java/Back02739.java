@@ -5,7 +5,6 @@ public class Back02739 {
         Scanner s = new Scanner(System.in);
 
         int a = 1;
-        System.out.print("1~9 사이의 정수 N을 입력해주세요 : ");
         int n = s.nextInt();
 
         while (a != 10) {
