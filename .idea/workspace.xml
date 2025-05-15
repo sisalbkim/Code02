@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f065410-5438-4c43-8daf-b306f5c6416a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Back02562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Back10810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Back10813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Back10988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Code08_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Code09_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exam02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Forrrrrrrr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Rabbit0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Back02525.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Back02525.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Back02588.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Back02588.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Back02739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Back02739.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Back02884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Back02884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Back10430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Back10430.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Back11382.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Back11382.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Backgpt08393.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Code07_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Code07_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Code07_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Code07_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Code08_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Code08_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exam001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exam001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exam004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exam004.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sisalbkim"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sisalbkim/Code02.git",
+    "accountId": "bb985c97-8a2f-4ae3-a8e8-56146ca1b8b4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2wniugIJRgkSD2HuR7p5rmJhmfM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/JavaWorks/Code02/src/main/java",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f065410-5438-4c43-8daf-b306f5c6416a" name="Changes" comment="" />
+      <created>1746683964660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746683964660</updated>
+      <workItem from="1746683965689" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
