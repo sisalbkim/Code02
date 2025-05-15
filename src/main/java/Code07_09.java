@@ -1,4 +1,4 @@
-class Rabbit {
+class Rabbit0709 {
     String shape;
     int xPos;
     int yPos;
@@ -12,9 +12,9 @@ class Rabbit {
 
 public class Code07_09 {
     public static void main(String[] args) {
-        Rabbit rabbit1 = new Rabbit();
-        Rabbit rabbit2 = new Rabbit();
-        Rabbit rabbit3 = new Rabbit();
+        Rabbit0709 rabbit1 = new Rabbit0709();
+        Rabbit0709 rabbit2 = new Rabbit0709();
+        Rabbit0709 rabbit3 = new Rabbit0709();
 
         rabbit1.shape = "원";
         rabbit2.shape = "삼각형";

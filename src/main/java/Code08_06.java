@@ -1,4 +1,4 @@
-class HouseRabbit extends Rabbit0 {
+class HouseRabbit0806 extends Rabbit0 {
     void move(int x, int y) {
         this.xPos = x;
         this.yPos = y;
@@ -10,7 +10,7 @@ class HouseRabbit extends Rabbit0 {
 
     }
 }
-class MountainRabbit extends Rabbit0{
+class MountainRabbit0806 extends Rabbit0{
 
 }
 
@@ -18,8 +18,8 @@ class MountainRabbit extends Rabbit0{
 
 public class Code08_06 {
     public static void main(String[] args) {
-        HouseRabbit hRabbit = new HouseRabbit();
-        MountainRabbit mRabbit = new MountainRabbit();
+        HouseRabbit0806 hRabbit = new HouseRabbit0806();
+        MountainRabbit0806 mRabbit = new MountainRabbit0806();
 
         hRabbit.move(500,500);
         mRabbit.move(500,500);
