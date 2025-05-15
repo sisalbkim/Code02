@@ -3,6 +3,7 @@ abstract class Fish {
 }
 
 class Goldfish extends Fish {
+    @Override
     void swim() {
         System.out.print("헤엄치고 있습니다.");
     }
